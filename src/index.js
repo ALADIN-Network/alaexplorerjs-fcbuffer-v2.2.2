@@ -1,5 +1,5 @@
 const Types = require('./types')
-const Fcbuffer = require('./alaexplorerjs-fcbuffer-v2.2.2')
+const Fcbuffer = require('./alafcbuffer22')
 const assert = require('assert')
 
 const {create} = Fcbuffer
